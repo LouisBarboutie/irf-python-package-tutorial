@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+pyproject.toml
+src/tutorialpackage/__init__.py
+src/tutorialpackage.egg-info/PKG-INFO
+src/tutorialpackage.egg-info/SOURCES.txt
+src/tutorialpackage.egg-info/dependency_links.txt
+src/tutorialpackage.egg-info/top_level.txt
+src/tutorialpackage/examplemodules/__init__.py
+src/tutorialpackage/examplemodules/list.py
+src/tutorialpackage/examplemodules/plot.py
+src/tutorialpackage/examplemodules/string.py

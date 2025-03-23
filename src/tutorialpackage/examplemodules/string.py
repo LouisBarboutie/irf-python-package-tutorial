@@ -1,8 +1,8 @@
-from example_package_louis.listutils import listutils
+from . import list
 
 def interleave(s1: str, s2: str):
     s = ''
-    for c1, c2 in zip(listutils.reverse(s1), s2):
+    for c1, c2 in zip(list.reverse(s1), s2):
         s += c1 + c2
 
     return s
